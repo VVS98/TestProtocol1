@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BAA7679E-874E-429D-862E-C762A4C179C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebClientSProtocol PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Login/Tabs/Login.cs">
+    <Files>
+      <File FileName="Login/Tabs/Calibration.cs" Line="178" Column="32" />
+      <File FileName="Login/Tabs/Login.cs" Line="137" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestProtocol" expanded="True">
+            <Node name="WebClientSProtocol" expanded="True">
+              <Node name="Tabs" expanded="True">
+                <Node name="Identy" expanded="True">
+                  <Node name="SearchByIdNumber" selected="True" />
+                </Node>
+                <Node name="Login" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
